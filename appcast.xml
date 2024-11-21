@@ -3,12 +3,12 @@
     <channel>
         <title>Tubbie</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Thu, 21 Nov 2024 16:26:13 +0800</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>0.9.1</title>
+            <pubDate>Thu, 21 Nov 2024 17:07:38 +0800</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/TubbieReleases/releases/latest/download/Tubbie.dmg" length="6126434" type="application/octet-stream" sparkle:edSignature="FwHjJcyWsi10ODM0g+HAtiXxKyBXlE8kuRb+J5o7ZnWUhINJgBCBIdDYBPj8vp+xVDXOSUZggRuRebvh395bCw=="/>
+            <enclosure url="https://github.com/ronyfadel/TubbieReleases/releases/latest/download/Tubbie.dmg" length="6131243" type="application/octet-stream" sparkle:edSignature="1dpn5T/xvCKua5TIwGoKcole850Dw7DIjJ/XOahuoWVJTwS3ledEdInxy6TKMalidZ82SjGMG9M1d0Yfk1sJAQ=="/>
         </item>
     </channel>
 </rss>
