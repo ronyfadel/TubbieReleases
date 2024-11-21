@@ -5,7 +5,7 @@
         <item>
             <title>0.9</title>
             <pubDate>Thu, 21 Nov 2024 15:36:03 +0800</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>0.9</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ronyfadel/TubbieReleases/releases/latest/download/Tubbie.dmg" length="6124323" type="application/octet-stream" sparkle:edSignature="o2pkfTOm2M6d9yGZFZgwUF46q1ULid7rnxeGjMm9FE27Z11WdOja0Hj6/Q0bj1FmtJpiBM5ZFrFviIWyqFJTCA=="/>
