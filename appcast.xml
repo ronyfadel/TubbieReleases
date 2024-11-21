@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Tubbie 0.8</title>
+        <title>Tubbie</title>
         <item>
-            <title>0.8</title>
-            <pubDate>Thu, 18 Nov 2024 19:10:56 +0800</pubDate>
-            <sparkle:version>0.8</sparkle:version>
-            <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="" length="0" type="application/octet-stream" />
+            <title>0.9</title>
+            <pubDate>Thu, 21 Nov 2024 15:36:03 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ronyfadel/TubbieReleases/releases/latest/download/Tubbie.dmg" length="6124323" type="application/octet-stream" sparkle:edSignature="o2pkfTOm2M6d9yGZFZgwUF46q1ULid7rnxeGjMm9FE27Z11WdOja0Hj6/Q0bj1FmtJpiBM5ZFrFviIWyqFJTCA=="/>
         </item>
     </channel>
 </rss>
