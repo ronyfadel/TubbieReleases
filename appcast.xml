@@ -3,6 +3,14 @@
     <channel>
         <title>Tubbie</title>
         <item>
+            <title>0.9.10</title>
+            <pubDate>Tue, 27 Oct 2026 14:36:52 +0100</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>0.9.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ronyfadel/TubbieReleases/releases/download/v0.9.10/Tubbie.dmg" sparkle:edSignature="NS7GDpLs7iTJZdWawPwaYuT4j4uFevYC9t5XmIdp2ut9QLhlAPv8mNZolEZX4pbRdSmQst4kM3pOpkPovWATBw==" length="45354853"/>
+        </item>
+        <item>
             <title>0.9.9</title>
             <pubDate>Wed, 12 Aug 2026 16:13:09 +0300</pubDate>
             <sparkle:version>99</sparkle:version>
